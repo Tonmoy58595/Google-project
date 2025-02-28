@@ -128,7 +128,7 @@ section .footer .row ul li a{
 
 /*Tablet View*/
 @media (min-width:769px) and (max-width:1023px){
-    }
+    
 }
 
 
@@ -144,5 +144,5 @@ section .footer .row ul li a{
     section .footer .row ul{
         display: block;
     }
-    }
+    
 }
