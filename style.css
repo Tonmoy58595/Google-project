@@ -128,8 +128,6 @@ section .footer .row ul li a{
 
 /*Tablet View*/
 @media (min-width:769px) and (max-width:1023px){
-    section header ul li button{
-        background-color: tomato;
     }
 }
 
@@ -146,7 +144,5 @@ section .footer .row ul li a{
     section .footer .row ul{
         display: block;
     }
-    section header ul li button{
-        background-color: blue;
     }
 }
